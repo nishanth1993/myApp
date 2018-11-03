@@ -1,2 +1,3 @@
 # myApp
-This is a dummy repo
+
+This is really a awesome website
